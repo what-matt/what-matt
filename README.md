@@ -5,6 +5,7 @@ Soy desarrollador por el día (... igual por las noches pero con michis), batero
 
 Actualmente trabajo con:
 ![](https://img.shields.io/badge/Python-Flask-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Python-Django-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/React-Next-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 También trabajé con:
